@@ -8,6 +8,6 @@
 	"start":"node HelloWorld.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "test",
   "license": "ISC"
 }
